@@ -1,0 +1,25 @@
+{
+    "id": "B84FAE04",
+    "path": "~/coursera/UCI HAR Dataset/run_analysis.R",
+    "project_path": "run_analysis.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1601481017730.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "19,24",
+        "scrollLine": "18"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1601482847,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1601482847992,
+    "read_only": false,
+    "read_only_alternatives": []
+}
