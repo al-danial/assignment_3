@@ -1,4 +1,4 @@
-# tidy_data.csv code book
+# tidy_data.txt code book
 
 ## Description
 

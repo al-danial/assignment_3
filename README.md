@@ -1,6 +1,6 @@
 # README for Getting and Cleaning Data assignment
 
-## tidy_data.csv
+## tidy_data.txt
 
 This is tidy data obtained from running the script run_analysis.R
 
